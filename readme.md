@@ -20,7 +20,7 @@ A simple FastAPI application for user registration and retrieval of registered u
 - Python 3.10+
 - FastAPI
 - Uvicorn
-
+- typing
 ---
 
 ## Installation
